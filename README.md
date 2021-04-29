@@ -10,7 +10,7 @@
   <br/>
   <img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" width="100">
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nizami-suleymanov-bb20951ba/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusif-huseynli-0b05631bb/)  
 
 ![Yusif's github stats](https://github-readme-stats.vercel.app/api?username=yusif763&count_private=true&show_icons=true&theme=gotham)
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yusif763&theme=gotham'/>
