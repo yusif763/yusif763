@@ -1,7 +1,7 @@
-- 👋 Hi, My name is Nizami
+- 👋 Hi, My name is Yusif
 - I'm a backend developer
 - Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker 
-- Check it if you want to contact me. EMail: nizami.end@gmail.com 
+- Check it if you want to contact me. EMail: yusifhuseynli1105@gmail.com
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
@@ -11,3 +11,6 @@
   <img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" width="100">
 </p>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nizami-suleymanov-bb20951ba/)  
+
+![Yusif's github stats](https://github-readme-stats.vercel.app/api?username=yusif763&count_private=true&show_icons=true&theme=gotham)
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yusif763&theme=gotham'/>
